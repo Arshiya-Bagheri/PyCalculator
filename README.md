@@ -1,6 +1,6 @@
-# Calcify
+# PyCalculator
 
-A modern, stylish desktop calculator application built with Python and PySide6. Calcify features a custom GUI, safe expression evaluation, and a smooth user experience. Perfect for quick, reliable calculations on your desktop.
+A modern, stylish desktop calculator application built with Python and PySide6. PyCalculator features a custom GUI, safe expression evaluation, and a smooth user experience. Perfect for quick, reliable calculations on your desktop.
 
 ## Features
 
