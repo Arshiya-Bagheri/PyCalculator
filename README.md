@@ -23,7 +23,7 @@ A modern, stylish desktop calculator application built with Python and PySide6. 
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/PyCalculator.git
+   git clone https://github.com/Arshiya-Bagheri/PyCalculator.git
    cd PyCalculator
    ```
 2. Install dependencies:
